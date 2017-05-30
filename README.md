@@ -24,7 +24,7 @@ but it may also work in other versions of OS X.
 
 Installation is very simple.  In a shell, type
 
-    curl -O https://raw.githubusercontent.com/killdash9/MacClam/master/MacClam.sh
+    curl -O https://raw.githubusercontent.com/dimarwix/MacClam/master/MacClam.sh
     chmod +x MacClam.sh
     ./MacClam.sh
 
